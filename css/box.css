@@ -1,0 +1,31 @@
+h1{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#top{
+position:absolute;
+left: 20%;
+background-color: tomato;
+border-style: solid;
+border-color: violet;
+border-width: 1px;
+width: 40%;
+/*margin-left:40% ;
+padding-left: 5%;*/
+}
+
+#bottom{
+    background-color: tomato;
+border-style: solid;
+border-color: violet;
+border-width: 1px;
+width: 40%;
+margin-top:30% ;
+margin-left: 40%;
+}
+h3{
+    font-family: 'Cormorant', serif;
+}
