@@ -6,7 +6,7 @@ h1{
 
 
 #top{
-position:absolute;
+position:relative;
 left: 20%;
 background-color: tomato;
 border-style: solid;
@@ -18,7 +18,7 @@ padding-left: 5%;*/
 }
 
 #bottom{
-    background-color: tomato;
+background-color: tomato;
 border-style: solid;
 border-color: violet;
 border-width: 1px;

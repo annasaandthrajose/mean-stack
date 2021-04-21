@@ -1,0 +1,48 @@
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+#one{
+    background-color: cornflowerblue;
+width: 7%;
+float: left;
+margin-left: 1%;
+height: 400px;
+}
+
+#two{
+background-color: darkturquoise;
+
+width: 7%;
+float: left;
+height: 400px;
+margin-left: 1%
+}
+#thre{
+background-color: darkblue;
+float: left;
+
+width: 7%;
+height: 400px;
+
+margin-left: 1%
+}
+#four{
+    background-color: darkkhaki;
+    float: left;
+    
+    width: 7%;
+    height: 400px;
+
+
+
+    margin-left: 1%
+}
+#five{
+    background-color: darkred;
+    float: left;
+    width: 7%;
+     margin-left: 1%;
+    height: 400px;
+    
+}
